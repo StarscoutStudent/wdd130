@@ -1,0 +1,13 @@
+.everything {
+    display: grid;
+    grid-template-columns: 600px 600px;
+    grid-template-rows: 600px 600px;
+}
+#cherries {
+    size: 20%;
+    grid-row: 1/2;
+}
+.everything h1 {
+    size: 100px;
+    grid-row: 1/3;
+}
