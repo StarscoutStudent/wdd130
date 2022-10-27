@@ -232,10 +232,6 @@ main section img {
         margin: 0 auto;
     }
     footer {
-
-    }
-
-    footer {
         flex-direction: column;
         margin-top: 25px;
     }
