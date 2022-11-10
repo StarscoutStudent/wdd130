@@ -1,0 +1,28 @@
+#containerBox {
+    margin:auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 300px;
+    color: black;
+    text-align: center;
+    
+}
+#image {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+footer {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 80px;
+    color: white;
+    font-weight: bold;
+    background-color:#3f5b8a;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    justify-content: center;
+
+}
+body {
+    background-color: black;
+}
