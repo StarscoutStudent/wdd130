@@ -45,12 +45,14 @@ h1 {
   display:inline-block;
   grid-row: 1;
   grid-column: 1;
+  z-index: -1;
 }
 #monkeyReverse {
   width: 100%;
   display:inline-block;
   grid-row: 1;
   grid-column: 3;
+  z-index: -1;
 }
 
 .accordion {
