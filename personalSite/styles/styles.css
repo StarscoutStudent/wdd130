@@ -31,7 +31,7 @@ h1 {
   margin: 5%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
-  grid-template-rows: 80px 300px;
+  grid-template-rows: 80px 330px;
 }
 #faqFollowUp {
   display:inline-block;margin-right:10px;
