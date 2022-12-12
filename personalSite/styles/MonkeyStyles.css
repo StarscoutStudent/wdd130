@@ -9,7 +9,6 @@ nav {
     
 }
 nav a {
-
     font-size: 180%;
     text-align: center;
     color: black;
@@ -54,17 +53,20 @@ body {
     height: 300px;
     grid-column: 2/3;
     border-radius: 20px;
+    padding: 40px;
 }
 #mbtxtSampleText {
-    padding: 10px
+    padding: 10px;
 }
 #whyShouldYou {
     text-align: center;
 }
 #explaining {
-    padding: 0, 50px;
+    padding: 0 50px;
     text-align: center;
     background-color: rgb(134, 215, 255);
+    padding: 40px;
+    line-height: 1.5em;
 }
 footer {
     color: rgb(171, 162, 89);
